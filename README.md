@@ -1,12 +1,13 @@
 # Building CLI Applications with .NET
 
+
 <div style="border:1px solid #d0d0d0; background:#f6f6f6; padding:12px; border-left:6px solid #4A90E2;font-size:16px;"> 
     <strong>Note:</strong> 
-    This branch contains the .NET 10 version of the code. It has been tested and all examples are working fine.
-    <br/><br/>
-    If you would still like to access the .NET 8 version of the code, you will find it in the <a href="https://github.com/PacktPublishing/Building-CLI-Applications-with-C-Sharp-and-.NET/tree/net8">net8</a> branch of this repository.
+    <p>This branch contains the .NET 8 version of the code, as originally authored with the book's initial release.</p>
+    <p>The version of the code targeting the most recent version of .NET can be found in the <a href="https://github.com/PacktPublishing/Building-CLI-Applications-with-C-Sharp-and-.NET/tree/main">main</a> branch of this repository.</p>
 </div>
 <br/>
+
 
 <a href="https://www.packtpub.com/en-in/product/building-cli-applications-with-net-9781835882757"> <img src="https://content.packt.com/_/image/xxlarge/B22400/cover_image.jpg" alt="Building CLI Applications with .NET" itemprop="url" height="256px" align="right">
 
